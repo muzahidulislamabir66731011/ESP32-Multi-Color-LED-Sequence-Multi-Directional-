@@ -44,7 +44,3 @@ MIT License — free to use, modify, and share for personal or commercial projec
 
 ---
 
-## 💡 Tip
-
-Want a smoother fading effect instead of simple ON/OFF? Try using PWM (`analogWrite()` with LEDC on ESP32) for advanced animations!
-
